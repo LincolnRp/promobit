@@ -31,16 +31,16 @@ Para iniciar o projeto, você pode fazer o download do repositório, ou clona-lo
 
 Metódo Download:
 
-1º Faça o download do projeto, no repositório clicando em CODE, download ZIP.
-2º Após baixar, será necessário descompactar os arquivos.
-3º Após descompactar, abra o terminal do Git, e rode o comando npm install
+1º Faça o download do projeto, no repositório clicando em CODE, download ZIP. </br>
+2º Após baixar, será necessário descompactar os arquivos. </br>
+3º Após descompactar, abra o terminal do Git, e rode o comando npm install </br>
 4º Após rodar o comando, rode o comando npm run start
 
 Metódo Clone:
 
-1º Faça o clone do projeto, no repositório clicando em CODE, e copiando o Link.
-2º Após copiar, abra o terminal do Git, e rode o comando git clone seuLinkCopiado.
-3º Após clonar todas as pastas, rode o comando npm install
+1º Faça o clone do projeto, no repositório clicando em CODE, e copiando o Link. </br>
+2º Após copiar, abra o terminal do Git, e rode o comando git clone seuLinkCopiado. </br>
+3º Após clonar todas as pastas, rode o comando npm install </br>
 4º Após rodar o comando, rode o comando npm run start
 
 OBS: Em todos os metódos será necessário o Git Bash, e o node previamente instalados em sua máquina.
