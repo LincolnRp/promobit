@@ -2,7 +2,7 @@ import logoTMDB from '../../Assets/images/logo.svg'
 import React from 'react'
 import { DivContainer } from './style';
 import { useNavigate } from 'react-router-dom'
-import { goToPage } from '../../Routes/Coordinator';
+import { goToPage } from '../../routes/coordinator';
 
 export default function Header() {
 

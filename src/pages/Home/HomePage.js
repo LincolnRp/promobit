@@ -1,7 +1,7 @@
 import { useContext } from 'react'
 import GenresMovie from '../GenresMovie/GenresMovie'
 import { Link } from 'react-router-dom'
-import Movie from '../../Components/Movies/Movies'
+import Movie from '../../components/Movies/Movies'
 import { MoviesContext } from '../../Global/GlobalState'
 import Paginate from '../../Services/Paginate/paginate'
 import {Container, Content} from './style'
