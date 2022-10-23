@@ -2,6 +2,13 @@
 
 O promobit é uma aplicação de listagem de filmes.
 
+![Screenshot_1](https://user-images.githubusercontent.com/93271677/197422399-56433972-9abe-42e0-aeb9-5ebca4a292ab.png)
+![Screenshot_2](https://user-images.githubusercontent.com/93271677/197422400-35acc732-3ccd-407a-bc2d-9f44643eafa6.png)
+![Screenshot_3](https://user-images.githubusercontent.com/93271677/197422401-15ed2583-46f1-4d3a-89ce-f1a4fb12e7d5.png)
+![Screenshot_4](https://user-images.githubusercontent.com/93271677/197422402-4fbeb15a-ec9c-4d61-9732-b541c0dd6013.png)
+![Screenshot_5](https://user-images.githubusercontent.com/93271677/197422404-2c3a9503-faa7-4264-bbcc-6bf0f7294773.png)
+![Screenshot_6](https://user-images.githubusercontent.com/93271677/197422405-ee333688-fda1-4a23-b291-be4017e1ed22.png)
+
 ## 🚀 Descrição do Projeto
 
 O promobit é uma aplicação de listagem dos filmes mais populares do dia, permitindo navegar por uma interface
