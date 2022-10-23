@@ -1,7 +1,7 @@
 import React from 'react';
-import HomePage from '../Pages/Home/HomePage';
-import ErrorPage from '../Pages/Error/Error';
-import MovieDetails from '../Pages/Details/Details';
+import HomePage from '../pages/Home/HomePage';
+import ErrorPage from '../pages/Error/Error';
+import MovieDetails from '../pages/Details/Details';
 import {Route, Routes} from 'react-router-dom';
 
 export default function Router() {

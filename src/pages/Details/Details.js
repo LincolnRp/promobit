@@ -11,7 +11,7 @@ import {Content, CastCard, CastName, CrewInfo, Synopsis, CrewTitle, CastTitle, D
   SynopsisText, TrailerTitle, CastContainer, CharacterName, CrewContainer, RecommendationsTitle,
   MovieRecommendationsContainer
 } from './style'
-import Movie from '../../Components/Movies/Movies'
+import Movie from '../../components/Movies/Movies'
 import {BASE_URL, API_KEY, BASE_URL_IMAGE, BASE_URL_YT} from '../../Constants/url'
 
 export default function MovieDetails(params) {
