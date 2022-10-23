@@ -18,11 +18,11 @@ do filme.
 
 ## 📋 Funcionalidades
 
-API: https://developers.themoviedb.org/3/getting-started/introduction
+API: https://developers.themoviedb.org/3/getting-started/introduction </br>
 FIGMA: https://www.figma.com/file/rM7WPqhLY9ObnGzSCeWLxB/Teste-Front-End?node-id=0%3A1
 
-Endpoints:  GET /movie/popular - Permite pegar os filmes populares.
-            GET /movie/{movie_id} - Permite pegar as informações do filme.
+Endpoints:  GET /movie/popular - Permite pegar os filmes populares. </br>
+            GET /movie/{movie_id} - Permite pegar as informações do filme. </br>
             GET /genre/movie/list - Filtragem dos filmes por genêro.
 
 ### 🔧 Getting Started / Configurações de Ambiente / Setup / Instalação
