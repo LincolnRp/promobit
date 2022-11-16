@@ -18,7 +18,7 @@ do filme.
 
 ## 📋 Funcionalidades
 
-DEPLOY: htts://scientific-credit.surge.sh
+DEPLOY: https://scientific-credit.surge.sh </br>
 API: https://developers.themoviedb.org/3/getting-started/introduction </br>
 FIGMA: https://www.figma.com/file/rM7WPqhLY9ObnGzSCeWLxB/Teste-Front-End?node-id=0%3A1
 
